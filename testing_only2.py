@@ -2,9 +2,7 @@ import librosa
 import soundfile
 import streamlit as st
 from audio_to_text import audio_to_text, audio_to_text_our_model
-#from audio_recorder_streamlit import audio_recorder
 from scipy.io import wavfile
-#from audiorecorder import audiorecorder
 from st_audiorec import st_audiorec
 
 st.set_page_config(page_title="My webpage", page_icon=":tada:",
