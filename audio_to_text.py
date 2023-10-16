@@ -4,7 +4,6 @@ import librosa
 import numpy as np
 import soundfile
 import torch
-import wavfile
 from IPython.display import Audio
 from transformers import Wav2Vec2ForCTC, Wav2Vec2Processor, Wav2Vec2Tokenizer
 
