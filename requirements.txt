@@ -4,3 +4,4 @@ transformers
 torch
 ipython
 wavfile
+scipy
