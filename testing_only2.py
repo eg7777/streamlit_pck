@@ -1,8 +1,8 @@
-! pip install librosa
-! pip install soundfile
-! pip install transformers
-! pip install torch
-! pip install ipython
+pip install librosa
+pip install soundfile
+pip install transformers
+pip install torch
+pip install ipython
 
 import librosa
 import soundfile
