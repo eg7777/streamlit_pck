@@ -1,5 +1,3 @@
-pip install -r requirements.txt
-
 import io
 
 import librosa
