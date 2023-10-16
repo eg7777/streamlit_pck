@@ -1,0 +1,8 @@
+streamlit
+librosa
+soundfile
+transformers
+torch
+ipython
+wavfile
+streamlit-audiorecorder
