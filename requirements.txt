@@ -1,0 +1,5 @@
+librosa
+soundfile
+transformers
+torch
+ipython
