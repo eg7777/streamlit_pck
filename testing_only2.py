@@ -1,5 +1,3 @@
-pip install -r requirements.txt
-
 import librosa
 import soundfile
 import streamlit as st
