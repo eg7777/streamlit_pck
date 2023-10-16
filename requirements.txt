@@ -1,8 +1,8 @@
 streamlit
+streamlit-audiorecorder
 librosa
 soundfile
 transformers
 torch
 ipython
 wavfile
-streamlit-audiorecorder
